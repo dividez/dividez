@@ -1,3 +1,5 @@
+# 求职，求职
+
 ## 基本信息
 
 姓名：Jim，年龄：28，工作经验：后端 - 7 年
@@ -18,7 +20,7 @@
 
 ## 掌握技能
 
-**基础**：Java 、 PHP 、HTML、CSS、JavaScript(ES6+)、TypeScript 等技术
+**基础**：Java 、 PHP 、HTML、CSS、JavaScript、 Python 等技术
 
 **框架**：Laravel、Spring-boot、Vue2、Vue3
 
