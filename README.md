@@ -20,13 +20,17 @@
 
 ## 掌握技能
 
-**基础**：Java 、 PHP 、HTML、CSS、JavaScript、 Python 等技术
+**基础**：Java 、 PHP 、HTML、CSS、JavaScript、 Python、TypeScript 等技术
 
 **框架**：Laravel、Spring-boot、Vue2、Vue3
 
 **UI 库**：Elememt、Vant、Antd 
 
 **经验**：全栈开发、微信/企微生态对接、Devops、ToB SaaS
+
+## Learn
+
+我正在学习 Golang、鸿蒙开发
 
 ## 个人博客
 
