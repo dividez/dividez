@@ -1,15 +1,16 @@
-# 求职，求职
+# About me
 
-## 基本信息
+## Basic Information
 
-姓名：Jim，年龄：28，工作经验：后端 - 7 年
+Name：Jim
+Age：29
+Work experience: Backend 7 years
 
-目前情况：<font color="red">**已离职，人在北京**</font>
+目前情况：<font color="red">**已离职**</font>
 
-求职意向：后端/全栈工程师，地点可在<font color="#22c55e">**北京**</font>
+求职意向：后端/全栈工程师
 
-邮箱：<dividi_z@163.com>，手机/微信：17600201664
-
+邮箱：<dividi_z@163.com>
 ## 个人优势
 
 - 熟练使用  **Java、PHP、Laravel 、Spring-boot、Mysql、Redis、Docker、** 等常用后端技术
