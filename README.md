@@ -3,14 +3,13 @@
 ## Basic Information
 
 Name：Jim
+
 Age：29
+
 Work experience: Backend 7 years
 
-目前情况：<font color="red">**已离职**</font>
-
-求职意向：后端/全栈工程师
-
 邮箱：<dividi_z@163.com>
+
 ## 个人优势
 
 - 熟练使用  **Java、PHP、Laravel 、Spring-boot、Mysql、Redis、Docker、** 等常用后端技术
