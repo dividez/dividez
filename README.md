@@ -15,7 +15,7 @@ Work experience: Backend 7 years
 - 熟练使用  **Java、PHP、Laravel 、Spring-boot、Mysql、Redis、Docker、** 等常用后端技术
 - 了解 **人脸识别, 机器学习, LLM, embedding** 等相关技术
 - 熟练使用 **HTML、JavaScript(ES6+)、CSS、TypeScript** 等常用前端技术
-- 熟练使用 **Vue** 框架，了解其原理并具有 2 年开发经验
+- 熟练使用 **Vue** 框架，了解其原理并具有 多年开发经验
 - 具备**全栈开发**经验，具备 服务搭建，前后端架构设计，持续集成，linux运维 等实践经验
 
 ## 掌握技能
