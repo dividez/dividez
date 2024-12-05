@@ -22,7 +22,7 @@ Proficient in the Vue framework, with a solid understanding of its principles an
 
 Experienced in full-stack development with practical expertise in service setup, front-end and back-end architecture design, continuous integration, and Linux operations.
 
-##Skills
+## Skills
 
 Basics: Java, PHP, HTML, CSS, JavaScript, Python, TypeScript
 
@@ -32,6 +32,6 @@ UI Libraries: Element, Vant, Ant Design (Antd)
 
 Experience: Full-stack development, WeChat/WeCom ecosystem integration, DevOps, ToB SaaS, AliCloud, AWS
 
-##Current Learning
+## Current Learning
 
 I am currently studying Golang and HarmonyOS development.
