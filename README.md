@@ -6,32 +6,25 @@ Name：Jim
 
 Age：29
 
-Work experience: Backend 7 years
+Work experience: Full-stack 7 years
 
-邮箱：<dividi_z@163.com>
+Email：<dividi_z@163.com>
 
-## 个人优势
+## Personal Strengths
 
-- 熟练使用  **Java、PHP、Laravel 、Spring-boot、Mysql、Redis、Docker、** 等常用后端技术
-- 了解 **人脸识别, 机器学习, LLM, embedding** 等相关技术
-- 熟练使用 **HTML、JavaScript(ES6+)、CSS、TypeScript** 等常用前端技术
-- 熟练使用 **Vue** 框架，了解其原理并具有 多年开发经验
-- 具备**全栈开发**经验，具备 服务搭建，前后端架构设计，持续集成，linux运维 等实践经验
+Proficient in commonly used backend technologies such as Java, PHP, Laravel, Spring Boot, MySQL, Redis, and Docker.
+Familiar with technologies like facial recognition, machine learning, LLMs, and embedding techniques.
+Skilled in front-end technologies including HTML, JavaScript (ES6+), CSS, and TypeScript.
+Proficient in the Vue framework, with a solid understanding of its principles and years of development experience.
+Experienced in full-stack development with practical expertise in service setup, front-end and back-end architecture design, continuous integration, and Linux operations.
 
-## 掌握技能
+##Skills
 
-**基础**：Java 、 PHP 、HTML、CSS、JavaScript、 Python、TypeScript 等技术
+Basics: Java, PHP, HTML, CSS, JavaScript, Python, TypeScript
+Frameworks: Laravel, Spring Boot, Vue 2, Vue 3, React
+UI Libraries: Element, Vant, Ant Design (Antd)
+Experience: Full-stack development, WeChat/WeCom ecosystem integration, DevOps, ToB SaaS, AliCloud, AWS
 
-**框架**：Laravel、Spring-boot、Vue2、Vue3
+##Current Learning
 
-**UI 库**：Elememt、Vant、Antd 
-
-**经验**：全栈开发、微信/企微生态对接、Devops、ToB SaaS
-
-## Learn
-
-我正在学习 Golang、鸿蒙开发
-
-## 个人博客
-
-- [https://blog.csdn.net/Divide_?type=blog](https://blog.csdn.net/Divide_?type=blog)
+I am currently studying Golang and HarmonyOS development.
