@@ -3,7 +3,7 @@
 ## Basic Information
 
 **Name:** Jim  
-**Experience:** 7+ years of full-stack development experience  
+**Experience:** 10+ years of full-stack development experience  
 **Email:** <dividi_z@163.com>
 
 ---
