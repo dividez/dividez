@@ -1,36 +1,64 @@
-# About me
-
+# About Me
 
 ## Basic Information
 
-Name：Jim
+**Name:** Jim  
+**Experience:** 7+ years of full-stack development experience  
+**Email:** <dividi_z@163.com>
 
-Work experience: Full-stack 7 years
+---
 
-Email：<dividi_z@163.com>
+## Professional Summary
 
-## Personal Strengths
+Experienced full-stack engineer with strong end-to-end software development capabilities across frontend, backend, infrastructure, and AI application engineering.
 
-Proficient in commonly used backend technologies such as Java, PHP, Laravel, Spring Boot, MySQL, Redis, and Docker.
+Proficient in designing and building scalable systems, including high-concurrency architectures, distributed services, deployment pipelines, monitoring systems, and cloud-native infrastructure.
 
-Familiar with technologies like facial recognition, machine learning, LLMs, and embedding techniques.
+Hands-on experience covering the complete development lifecycle — from product architecture and backend services to browser applications, mobile apps, desktop applications, DevOps, SRE, and production operations.
 
-Skilled in front-end technologies including HTML, JavaScript (ES6+), CSS, and TypeScript.
+Currently focused on AI/LLM agent development, including embeddings, RAG pipelines, workflow orchestration, and intelligent application engineering.
 
-Proficient in the Vue framework, with a solid understanding of its principles and years of development experience.
+---
 
-Experienced in full-stack development with practical expertise in service setup, front-end and back-end architecture design, continuous integration, and Linux operations.
+## Core Strengths
 
-## Skills
+- Strong backend development experience with Java, PHP, Laravel, Spring Boot, MySQL, Redis, Docker, and distributed system design.
+- Skilled in frontend engineering using Vue, React, TypeScript, JavaScript (ES6+), HTML, and CSS.
+- Extensive experience in full-stack architecture design, CI/CD pipelines, Linux operations, and cloud deployment.
+- Familiar with high-availability systems, performance optimization, monitoring, observability, and SRE practices.
+- Practical experience in browser-based applications, mobile applications, desktop applications, and cross-platform engineering.
+- Familiar with AI-related technologies including LLMs, AI agents, embeddings, machine learning, and facial recognition.
+- Strong engineering mindset with the ability to independently design, develop, deploy, and maintain complete systems.
 
-Basics: Java, PHP, HTML, CSS, JavaScript, Python, TypeScript
+---
 
-Frameworks: Laravel, Spring Boot, Vue 2, Vue 3, React
+## Technical Skills
 
-UI Libraries: Element, Vant, Ant Design (Antd)
+### Languages
+Java, PHP, Python, JavaScript, TypeScript, HTML, CSS
 
-Experience: Full-stack development, WeChat/WeCom ecosystem integration, DevOps, ToB SaaS, AliCloud, AWS
+### Frameworks & Platforms
+Laravel, Spring Boot, Vue 2, Vue 3, React
 
-## Current Learning
+### Infrastructure & DevOps
+Docker, Linux, CI/CD, Redis, MySQL, Nginx, AliCloud, AWS
 
-I am currently studying Golang and HarmonyOS development.
+### Frontend & UI
+Element UI, Vant, Ant Design (Antd)
+
+### Engineering Experience
+- Full-stack development
+- Distributed systems & high concurrency
+- DevOps & SRE
+- Cloud-native deployment
+- Monitoring & observability
+- ToB SaaS platforms
+- WeChat / WeCom ecosystem integration
+- Browser / Mobile / Desktop application development
+- AI Agent & LLM application development
+
+---
+
+## Current Focus
+
+Currently focused on AI agent engineering and large language model (LLM) application development.
